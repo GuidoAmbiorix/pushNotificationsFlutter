@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815344723889",
+    "project_id": "flutter-projects-fbac1",
+    "storage_bucket": "flutter-projects-fbac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815344723889:android:66db5599b647bf041eff90",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2BB_-HfSaCYKV07vxnagbVFbTahitGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815344723889:android:c3531d8cab38d9ae1eff90",
+        "android_client_info": {
+          "package_name": "com.guidopruebanotifications.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2BB_-HfSaCYKV07vxnagbVFbTahitGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
